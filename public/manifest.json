@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name":"TechWeek",
+  "name": "TechWeek IEEE DTU",
   "icons": [
 {
   "src":"maskable.png",
