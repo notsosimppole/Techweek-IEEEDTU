@@ -241,3 +241,7 @@ body {
     margin-bottom: 15px;
   }
 }
+
+svg:hover{
+  fill:#08D4F8;
+}
