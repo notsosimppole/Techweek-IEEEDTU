@@ -96,7 +96,7 @@ const Footer = () => {
                             <p className='pr-1 bsc'>
                                 Prashant
                             </p>
-                            <a href='https://github.com/prashant0664' target='_blank' rel='noreferrer' className='pt-1'>
+                            <a aria-label="link2rr" href='https://github.com/prashant0664' target='_blank' rel='noreferrer' className='pt-1'>
                                 <BsGithub className='hover:color-white bsc' />
                             </a>
                         </span>
@@ -126,7 +126,7 @@ const Footer = () => {
                             <a  aria-label="link18" href='https://www.instagram.com/ieee.dtu/' target='_blank' rel='noreferrer'>
                                 <BsInstagram className='text-[23px] hover:text-[#08D4F8]' />
                             </a>
-                            <a href='https://www.linkedin.com/company/ieee-dtu/' target='_blank' rel='noreferrer'>
+                            <a href='https://www.linkedin.com/company/ieee-dtu/' aria-label="link2p" target='_blank' rel='noreferrer'>
                                 <BsLinkedin className='text-[23px] hover:text-[#08D4F8]' />
                             </a>
                             <a aria-label="link19" href='https://twitter.com/dtu_ieee' target='_blank' rel='noreferrer'>
