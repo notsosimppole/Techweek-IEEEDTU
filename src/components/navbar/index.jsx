@@ -20,13 +20,13 @@ const Navbar = () => {
                     <img src={logo} alt="logo" className='h-[100px] w-[100px] ssm:h-[70px] ssm:w-[70px] ' />
                 </a>
                 <div className='flex flex-row flex-nowrap items-center justify-center gap-4 md:px-14 mx-[20px] ssm:mx-[4px] md:w-auto ssm:text-sm'>
-                    <a  aria-label="link21" href='#about' className='duration-[400ms] text-[#BECACA] text-lg font-bold py-2 hover:text-[#08D4F8] hover:scale-[1.05] ssm:text-sm'>
+                    <a  aria-label="About" href='#about' className='duration-[400ms] text-[#BECACA] text-lg font-bold py-2 hover:text-[#08D4F8] hover:scale-[1.05] ssm:text-sm'>
                         About
                     </a>
-                    <a aria-label="link22" href='#events' className='hover:scale-[1.05] duration-[400ms] text-[#BECACA] text-lg font-bold py-2 hover:text-[#08D4F8] ssm:text-sm'>
+                    <a aria-label="Events" href='#events' className='hover:scale-[1.05] duration-[400ms] text-[#BECACA] text-lg font-bold py-2 hover:text-[#08D4F8] ssm:text-sm'>
                         Events
                     </a>
-                    <a  aria-label="link20" href='#footer' className='text-lg duration-[400ms] font-bold py-2 text-[#08D4F8] border-2 border-[#08D4F8] transition transform hover:scale-110 hover:bg-[#08D4F8] hover:text-[#1B1B1B] duration-150 px-2 md:px-5 my-5 md:my-0 rounded-lg ssm:text-sm ssm:my-[0px]'>
+                    <a  aria-label="Contact Us" href='#footer' className='text-lg duration-[400ms] font-bold py-2 text-[#08D4F8] border-2 border-[#08D4F8] transition transform hover:scale-110 hover:bg-[#08D4F8] hover:text-[#1B1B1B] duration-150 px-2 md:px-5 my-5 md:my-0 rounded-lg ssm:text-sm ssm:my-[0px]'>
                         Contact Us
                     </a>
                 </div>

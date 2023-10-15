@@ -14,7 +14,7 @@ const Landing = () => {
                     </div>
                 </div>
                 <div className='bg-[#08D4F8] text-[#1B1B1B] font-bold font-prompt text-xl px-4 w-8/12 rounded-lg py-1 transform transition duration-500 hover:scale-110 hover:bg-transparent border-2 border-[#08D4F8] hover:text-[#08D4F8] mt-4'>
-                    <a aria-label="link23" href='https://www.google.com' target='_blank' rel='noreferrer'>
+                    <a aria-label="Register Now →" href='https://www.google.com' target='_blank' rel='noreferrer'>
                         <button className='w-full flex justify-center items-center my-1 md:mb-0 px-0 text-[22px]'>
                             Register Now →
                         </button>

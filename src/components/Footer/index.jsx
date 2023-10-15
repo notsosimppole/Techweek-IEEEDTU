@@ -30,10 +30,10 @@ const Footer = () => {
                                     Delhi - 110042
                                 </p>
                                 <p className='text-[#BECACA] mx-4 text-md'>
-                                    <a aria-label="link11" href='https://www.dtu.ac.in/' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8] bsc'>www.dtu.ac.in</a>
+                                    <a aria-label="www.dtu.ac.in" href='https://www.dtu.ac.in/' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8] bsc'>www.dtu.ac.in</a>
                                 </p>
                                 <p className='text-[#BECACA] mx-4 text-md'>
-                                    <a aria-label="link12" href='https://www.ieeedtu.in' target='_blank' rel="noreferrer" className='hover:text-[#08D4F8] bsc'>
+                                    <a aria-label="IEEE-DTU: www.ieeedtu.in" href='https://www.ieeedtu.in' target='_blank' rel="noreferrer" className='hover:text-[#08D4F8] bsc'>
                                         IEEE-DTU: www.ieeedtu.in
                                     </a>
                                 </p>
@@ -53,7 +53,7 @@ const Footer = () => {
                                     Sidharth Kapoor
                                 </p>
                                 <p className='text-[#BECACA] mx-4 text-md bsc'>
-                                    <a aria-label="link13" href='https://wa.me/919899133065?text=' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8]'>+91 98991 33065</a>
+                                    <a aria-label="+91 98991 33065" href='https://wa.me/919899133065?text=' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8]'>+91 98991 33065</a>
                                 </p>
                             </div>
                         </div>
@@ -66,7 +66,7 @@ const Footer = () => {
                                     Sinchan Roy
                                 </p>
                                 <p className='text-[#BECACA] mx-4 text-md bsc'>
-                                    <a aria-label="link14" href='https://wa.me/918826978278?text=' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8]'>+91 88269 78278</a>
+                                    <a aria-label="+91 88269 78278" href='https://wa.me/918826978278?text=' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8]'>+91 88269 78278</a>
                                 </p>
                             </div>
                         </div>
@@ -80,7 +80,7 @@ const Footer = () => {
 
                                 </p>
                                 <p className='text-[#BECACA] mx-4 text-md'>
-                                    <a  aria-label="link15" href='https://wa.me/919625893430?text=' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8]'>+91 96258 93430</a>
+                                    <a  aria-label="+91 96258 93430" href='https://wa.me/919625893430?text=' target='_blank' rel='noreferrer' className='hover:text-[#08D4F8]'>+91 96258 93430</a>
                                 </p>
                             </div>
                         </div>
