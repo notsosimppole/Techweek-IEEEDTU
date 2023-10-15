@@ -71,7 +71,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -104,7 +104,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -129,7 +129,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -154,7 +154,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -179,7 +179,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -203,7 +203,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -228,7 +228,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -254,7 +254,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -278,7 +278,7 @@ const EventList = () => {
                                     12 Oct 2024
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2'>
+                            <a href="" target="_blank" className='btn2' aria-label="link">
                                 <button className="btn">
                                     Join Group
                                 </button>
