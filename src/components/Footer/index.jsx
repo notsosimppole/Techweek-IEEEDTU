@@ -21,7 +21,7 @@ const Footer = () => {
                             <div className="hidsm2">
                                 Powered By:&nbsp;&nbsp;
                                 <br />
-                                <a href="" target="_blank" aria-label="unstoplink2">
+                                <a href="https://unstop.com/" target="_blank" aria-label="unstoplink2">
                                     <img src={Unstop} alt="unstoplogo" className="h-8" />
                                 </a>
                             </div>
