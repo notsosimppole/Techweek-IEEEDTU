@@ -25,31 +25,31 @@ const EventList = () => {
             <div className='hidet h-screen w-4/5 mx-auto overflow-y-scroll snap-y snap-mandatory rounded-xl scrollbar-hide mb-20'>
 
                 <div className='snap-start h-full w-full'>
-                    <EventCard title="Basic Programming" img={basici} date="05 Oct 2023" link="" />
+                    <EventCard title="Basic Programming" img={basici} date="TBA" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Web Development" img={webi} date="6 Oct 2023" link="" />
+                    <EventCard title="Web Development" img={webi} date="TBA" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Analog+Digital Electronics" img={analogi} date="17 Oct 2023" link="" />
+                    <EventCard title="Analog+Digital Electronics" img={analogi} date="TBA" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Android Development" img={androidi} date="18 Oct 2023" link="" />
+                    <EventCard title="Android Development" img={androidi} date="TBA" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Data Analytics" img={datai} date="18 Oct 2023" link="" />
+                    <EventCard title="Data Analytics" img={datai} date="TBA" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="ML/AI" img={mli} date="19 Jan 2023" link="" />
+                    <EventCard title="ML/AI" img={mli} date="TBA" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Data Structures and Algorithms" img={dsai} date="19 Jan 2023" link="" />
+                    <EventCard title="Data Structures and Algorithms" img={dsai} date="TBA" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Graphic Design" img={designi} date="20 Jan 2023" link="" />
+                    <EventCard title="Graphic Design" img={designi} date="TBA" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Robotics" img={roboticsi} date="20 Jan 2023" link="" />
+                    <EventCard title="Robotics" img={roboticsi} date="TBA" link="" />
                 </div>
             </div>
             <div className={` hidet2 grid-container mx-[20px] my-[10px] `} >
@@ -68,7 +68,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link1">
@@ -101,7 +101,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link6">
@@ -126,7 +126,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link2">
@@ -151,7 +151,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link8">
@@ -176,7 +176,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link3">
@@ -200,7 +200,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link7">
@@ -225,7 +225,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link4">
@@ -251,7 +251,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link9">
@@ -275,7 +275,7 @@ const EventList = () => {
                             </div>
                             <div className="date">
                                 <p className="datesub">
-                                    12 Oct 2024
+                                    TBA
                                 </p>
                             </div>
                             <a href="" target="_blank" className='btn2' aria-label="link5">

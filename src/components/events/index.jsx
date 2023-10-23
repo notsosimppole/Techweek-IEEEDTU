@@ -1,4 +1,3 @@
-import React from 'react'
 import image from "../../assets/images/v222.png"
 const Events = () => {
     return (
