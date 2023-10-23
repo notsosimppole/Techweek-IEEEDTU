@@ -1,6 +1,6 @@
 import logo from "../../assets/logo.webp"
 import { BsGithub, BsInstagram, BsLinkedin } from 'react-icons/bs'
-
+import Unstop from "../../assets/unstop.png"
 const Footer = () => {
     return (
         <div className='mx-4 bg-[#1B1B1B] text-[#fbf7f7] flex flex-col flex-nowrap items-center justify-center mt-[100px] ' id='footer'>
@@ -10,6 +10,16 @@ const Footer = () => {
                         <img src={logo} alt='logo' width={100} height={100} />
                         <p className='text-[#BECACA] mx-4 text-md bsh'>
                             TechWeek by IEEE-DTU
+                            <br/>
+                            <div className="flex hidsm">
+                            Powered By:&nbsp;&nbsp;
+                            <img src={Unstop} alt="unstoplogo" className="h-8"/>
+                            </div>
+                            <div className="hidsm2">
+                            Powered By:&nbsp;&nbsp;
+                            <br/>
+                            <img src={Unstop} alt="unstoplogo" className="h-8"/>
+                            </div>
                         </p>
                     </div>
                     <div>
