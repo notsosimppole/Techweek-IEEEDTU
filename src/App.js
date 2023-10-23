@@ -4,7 +4,7 @@ import Events from './components/events/index'
 import Footer from './components/Footer/index'
 import Landing from './components/landing/index'
 import Navbar from './components/navbar/index'
-// import Sponsers from '../components/sponsers'
+import Sponsers from './components/sponsers/index'
 
 // import styles from '../styles/Home.module.css'
 import { Helmet, HelmetProvider } from 'react-helmet-async'
@@ -22,7 +22,7 @@ export default function App() {
         <Landing />
         <Events />
         <EventList />
-        {/* <Sponsers /> */}
+        <Sponsers />
         <Footer />
       </div>
     </HelmetProvider>
