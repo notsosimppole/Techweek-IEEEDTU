@@ -11,7 +11,9 @@ const Sponsers = () => {
                     </div>
                     <div className='flex flex-col items-center justify-center w-full mx-4 gap-0 h-full'>
                         <div className='flex items-center justify-center w-full mx-4 gap-12 h-full'>
-                        <img src={unstop} alt="unstoplogo" className="h-24 mb-10"/>
+                        <a href="https://unstop.com/" target="_blank" aria-label="unstoplabel3">
+                            <img src={unstop} alt="unstoplogo" className="h-24 mb-10"/>
+                        </a>
                         </div>
                     </div>
                 </div>
