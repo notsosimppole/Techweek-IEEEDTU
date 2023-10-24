@@ -25,13 +25,13 @@ const EventList = () => {
             <div className='hidet h-screen w-4/5 mx-auto overflow-y-scroll snap-y snap-mandatory rounded-xl scrollbar-hide mb-20'>
 
                 <div className='snap-start h-full w-full'>
-                    <EventCard title="Basic Programming" img={basici} date="06 Nov 2023" link="" />
+                    <EventCard title="Basic Programming" img={basici} date="06 Nov 2023" link="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Web Development" img={webi} date="04 Nov 2023" link="" />
+                    <EventCard title="Web Development" img={webi} date="04 Nov 2023" link="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Basic Electronics" img={analogi} date="07 Nov 2023" link="" />
+                    <EventCard title="Basic Electronics" img={analogi} date="07 Nov 2023" link="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" />
                 </div>
                 <div className='h-screen w-full snap-start'>
                     <EventCard title="Android Development" img={androidi} date="09 Nov 2023" link="https://chat.whatsapp.com/DGuqlK0HVghEZRNXHcS3HR" />
@@ -40,16 +40,16 @@ const EventList = () => {
                     <EventCard title="Data Analytics" img={datai} date="07 Nov 2023" link="https://chat.whatsapp.com/DGuqlK0HVghEZRNXHcS3HR" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="ML/AI" img={mli} date="08 Nov 2023" link="" />
+                    <EventCard title="ML/AI" img={mli} date="08 Nov 2023" link="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Data Structures and Algorithms" img={dsai} date="06 Nov 2023" link="" />
+                    <EventCard title="Data Structures and Algorithms" img={dsai} date="06 Nov 2023" link="https://chat.whatsapp.com/CNPT3k4UJhpJhvzs7Z2vV0" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Graphic Design" img={designi} date="08 Nov 2023" link="" />
+                    <EventCard title="Graphic Design" img={designi} date="08 Nov 2023" link="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Robotics" img={roboticsi} date="09 Nov 2023" link="" />
+                    <EventCard title="Robotics" img={roboticsi} date="09 Nov 2023" link="https://chat.whatsapp.com/ELB90dXkAnm5L2GTnUVcNb" />
                 </div>
             </div>
             <div className={` hidet2 grid-container mx-[20px] my-[10px] `} >
