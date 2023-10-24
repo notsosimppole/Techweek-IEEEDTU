@@ -1,4 +1,5 @@
 const EventCard = (props) => {
+  const link = props.link;
   return (
     <div className='relative h-full w-full bg-fixed flex flex-col justify-between'
       style={{
@@ -17,7 +18,7 @@ const EventCard = (props) => {
       </div>
       <div className='flex items-center w-full justify-center py-16'>
         <a
-          href={props.link}
+          href={link}
           target='_blank'
           rel='noreferrer'
           className='md:text-5xl px-10 rounded-2xl text-2xl text-center font-semibold font-prompt text-black mix-blend-lighten bg-[#ffffff] py-5 transistion transform hover:scale-110 duration-150 cursor-pointer'

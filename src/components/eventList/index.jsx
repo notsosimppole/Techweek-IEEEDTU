@@ -71,7 +71,7 @@ const EventList = () => {
                                     07 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link1">
+                            <a href="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" target="_blank" className='btn2' aria-label="link1">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -104,7 +104,7 @@ const EventList = () => {
                                     06 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link6">
+                            <a href="https://chat.whatsapp.com/CNPT3k4UJhpJhvzs7Z2vV0" target="_blank" className='btn2' aria-label="link6">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -129,7 +129,7 @@ const EventList = () => {
                                     08 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link2">
+                            <a href="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" target="_blank" className='btn2' aria-label="link2">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -154,7 +154,7 @@ const EventList = () => {
                                     09 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link8">
+                            <a href="https://chat.whatsapp.com/ELB90dXkAnm5L2GTnUVcNb" target="_blank" className='btn2' aria-label="link8">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -179,7 +179,7 @@ const EventList = () => {
                                     04 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link3">
+                            <a href="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" target="_blank" className='btn2' aria-label="link3">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -203,7 +203,7 @@ const EventList = () => {
                                     06 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link7">
+                            <a href="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" target="_blank" className='btn2' aria-label="link7">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -228,7 +228,7 @@ const EventList = () => {
                                     09 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link4">
+                            <a href="https://chat.whatsapp.com/DGuqlK0HVghEZRNXHcS3HR" target="_blank" className='btn2' aria-label="link4">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -254,7 +254,7 @@ const EventList = () => {
                                     08 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link9">
+                            <a href="https://chat.whatsapp.com/CF5rpjNgwwX1pZJOgwxgnS" target="_blank" className='btn2' aria-label="link9">
                                 <button className="btn">
                                     Join Group
                                 </button>
@@ -278,7 +278,7 @@ const EventList = () => {
                                     07 Nov 2023
                                 </p>
                             </div>
-                            <a href="" target="_blank" className='btn2' aria-label="link5">
+                            <a href="https://chat.whatsapp.com/DGuqlK0HVghEZRNXHcS3HR" target="_blank" className='btn2' aria-label="link5">
                                 <button className="btn">
                                     Join Group
                                 </button>
