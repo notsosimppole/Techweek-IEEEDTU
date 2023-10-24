@@ -34,10 +34,10 @@ const EventList = () => {
                     <EventCard title="Basic Electronics" img={analogi} date="07 Nov 2023" link="" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Android Development" img={androidi} date="09 Nov 2023" link="" />
+                    <EventCard title="Android Development" img={androidi} date="09 Nov 2023" link="https://chat.whatsapp.com/DGuqlK0HVghEZRNXHcS3HR" />
                 </div>
                 <div className='h-screen w-full snap-start'>
-                    <EventCard title="Data Analytics" img={datai} date="07 Nov 2023" link="" />
+                    <EventCard title="Data Analytics" img={datai} date="07 Nov 2023" link="https://chat.whatsapp.com/DGuqlK0HVghEZRNXHcS3HR" />
                 </div>
                 <div className='h-screen w-full snap-start'>
                     <EventCard title="ML/AI" img={mli} date="08 Nov 2023" link="" />
